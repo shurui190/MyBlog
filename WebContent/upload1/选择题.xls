@@ -1,0 +1,2281 @@
+﻿<form method="post" action="ChoiceQuestionList.aspx" id="ctl00">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+</div>
+<div>
+	<table cellspacing="0" rules="all" border="1" id="GVForExport" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">自定义题号</th><th scope="col">题目难度</th><th scope="col">所属阶段</th><th scope="col">知识点</th><th scope="col">题目名称</th><th scope="col">题目描述</th><th scope="col">答案</th><th scope="col">答案描述</th><th scope="col">备注</th>
+		</tr><tr>
+			<td>hy_1111</td><td>
+                         简单
+                    </td><td>
+                         阶段一
+                    </td><td>
+                     JSP基础
+                    </td><td>JSP是下面( )项的缩写。</td><td>
+                     JSP是下面____________项的缩写。A．JavaScript Pages &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．Java Server PagesC．Java Security Pages &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．Java Simple Pages
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1112</td><td>
+                         简单
+                    </td><td>
+                         阶段一
+                    </td><td>
+                     JSP基础
+                    </td><td>下面关于安装JSP应用程序开发环境的描述，正确的是</td><td>
+                     下面关于安装JSP应用程序开发环境的描述，正确的是： ____________。A．必须安装JDK &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．必须安装TomcatC．必须使用Myeclipse &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．必须安装JDK，Tomcat和Myeclipse
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1121</td><td>
+                         简单
+                    </td><td>
+                         阶段一
+                    </td><td>
+                     JSP基础
+                    </td><td>下列关于静态网页技术与动态网页技术的说法错误的是</td><td>
+                     下列关于静态网页技术与动态网页技术的说法错误的是____________A. 静态网页*.html中也可以嵌入脚本代码，比如JavaScript程序段等，但这些程序不可能在服务器端运行，只能在客户端浏览器中运行； B. 传统CGI是多进程方式的动态网页技术，而Servlet是多线程方式，所以CGI比Servlet开销小；C. CGI和Servlet都属于扩展Web服务器的技术之一；D. JSP是以Servlet程序方式运行的。
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1131</td><td>
+                         简单
+                    </td><td>
+                         阶段一
+                    </td><td>
+                     JSP基础
+                    </td><td>下面文件名后缀中</td><td>
+                     下面文件名后缀中，只有____________不是动态网页文件的后缀。A．.php &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．.jspC．.htm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．.asp
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1101</td><td>
+                         简单
+                    </td><td>
+                         阶段一
+                    </td><td>
+                     JSP基础
+                    </td><td>下列关于Tomcat说法正确的是</td><td>
+                     A．Tomcat服务器的默认端口是1433B．Tomcat是一种集成开发工具C．Tomcat是一个免费的数据库服务器D．Tomcat是一个支持JSP/Servlet的Web服务器
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1110</td><td>
+                         简单
+                    </td><td>
+                         阶段一
+                    </td><td>
+                     JSP基础
+                    </td><td>下列关于Tomcat说法正确的是</td><td>
+                     下列关于Tomcat说法正确的是____________。A．Tomcat服务器的默认端口是80 &nbsp; &nbsp; &nbsp; &nbsp; B．Tomcat是一种Web开发技术C．Tomcat是一种数据库管理系统 &nbsp; &nbsp; &nbsp; &nbsp; D．Tomcat是一个支持Servlet的Web服务器
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1112</td><td>
+                         简单
+                    </td><td>
+                         阶段一
+                    </td><td>
+                     JSP基础
+                    </td><td>下列关于HTTP协议的说明中错误的是</td><td>
+                     下列关于HTTP协议的说明中错误的是____________。A.HTTP请求常用的方式有GET和POST B.HTTP协议是一种无状态的协议C.HTTP协议是一种基于连接的协议 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D. HTTP协议传输的数据类型由Content-Type加以标记
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1105</td><td>
+                         简单
+                    </td><td>
+                         阶段一
+                    </td><td>
+                     JSP基础
+                    </td><td>下列关于Tomcat说法正确的是</td><td>
+                     下列关于Tomcat说法正确的是____________。A．Tomcat服务器的默认端口是1433 &nbsp; &nbsp; &nbsp; &nbsp; B．Tomcat是一种集成开发工具C．Tomcat是一个免费的数据库服务器 &nbsp; &nbsp; &nbsp;D．Tomcat是一个支持JSP/Servlet的Web服务器
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p1_sw_002</td><td>
+                         普通
+                    </td><td>
+                         阶段一
+                    </td><td>
+                     JSP基础
+                    </td><td>在学生成绩管理应用studentScoreManageSystem中有一个查询页面</td><td>
+                     在学生成绩管理应用studentScoreManageSystem中有一个查询页面search.jsp，它的文件路径如下:%CATALINA_HOME% /webapps/studentScoreManageSystem /score/search.jsp那么在浏览器端访问search.jsp的URL是什么? A.http://localhost:8080/search.jspB.http://localhost:8080/ score /search.jspC.http://localhost:8080/studentScoreManageSystem /score/search.jspD.http://localhost:8080/studentScoreManageSystem /search.jsp
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p1_sw_0001</td><td>
+                         困难
+                    </td><td>
+                         阶段一
+                    </td><td>
+                     JSP基础
+                    </td><td>在学生成绩管理应用</td><td>
+                     在学生成绩管理应用studentScoreManageSystem中有一个doSearchServlet类，它位于cuit.student.search包下，那么这个类的class文件应该放在什么目录下? A. studentScoreManageSystem/doSearchServlett.classB. studentScoreManageSystem /cuit/student/search/doSearchServlet.classC. studentScoreManageSystem /WEB-INF/classes/doSearchServlet.class D. studentScoreManageSystem /WEB-INF/classes/cuit/student/search/doSearchServlet.class
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_2016_simple_phase1_0001</td><td>
+                         简单
+                    </td><td>
+                         阶段一
+                    </td><td>
+                     JSP基础
+                    </td><td>下面说法正确的是（）</td><td>
+                     下面说法正确的是（）A. JSP是一种开发静态网页的编程技术B. Html是一种开发静态网页的编程技术、C. PHP可以开发动态网页D. JSP程序需要部署在IIS服务器上才能运行
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_2016_simple_phase1_0002</td><td>
+                         简单
+                    </td><td>
+                         阶段一
+                    </td><td>
+                     JSP基础
+                    </td><td>JSP的处理过程中下面哪一句是错的（）</td><td>
+                     JSP的处理过程中下面哪一句是错的（）A.客户端要先通过浏览器向服务器端发送http请求 B.请求中要包含请求的资源路径 C.Jsp引擎会直接执行加载的JSP文件，不需要翻译 D.服务器执行Servlet代码的class文件，该Servlet是请求的JSP文件被翻译成的Servlet代码 
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1109</td><td>
+                         简单
+                    </td><td>
+                         阶段一
+                    </td><td>
+                     JSP基础
+                    </td><td>Tomcat服务器的默认端口是</td><td>
+                     Tomcat服务器的默认端口是_____________。A. 8080 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;C. &nbsp;80B. 1433 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D. &nbsp;1527
+                    </td><td>A|B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_2016_simple_phase1_0003</td><td>
+                         简单
+                    </td><td>
+                         阶段一
+                    </td><td>
+                     JSP基础
+                    </td><td>下面哪个服务器不能运行JSP程序（）</td><td>
+                     下面哪个服务器不能运行JSP程序（） &nbsp;A.glassfish &nbsp;B.Jboss &nbsp;C.Tomcat D. IIS &nbsp;
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1117</td><td>
+                         简单
+                    </td><td>
+                         阶段一
+                    </td><td>
+                     JSP基础
+                    </td><td>JSP是下面项的缩写。</td><td>
+                     JSP是下面____________项的缩写。A. JavaScript Pages &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;C．JavaServer PagesB. Java Security Pages &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．Java Simple Pages
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p1_sw_001</td><td>
+                         普通
+                    </td><td>
+                         阶段一
+                    </td><td>
+                     JSP基础
+                    </td><td>关于MVC</td><td>
+                     在MVC模式中，模型层对象被编写为______。A．Applet &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．JSPC．Server &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．JavaBean 
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p1_hyy_001</td><td>
+                         简单
+                    </td><td>
+                         阶段一
+                    </td><td>
+                     JSP基础
+                    </td><td>关于Tomcat线程</td><td>
+                     当多个用户请求同一个JSP页面时，Tomcat服务器为每个客户启动一个____________。A．进程 &nbsp; B．线程 &nbsp;C．服务 &nbsp; &nbsp; &nbsp;D．程序
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p1_hyy_011</td><td>
+                         普通
+                    </td><td>
+                         阶段一
+                    </td><td>
+                     JSP基础
+                    </td><td>关于MVC</td><td>
+                      在MVC设计模式体系结构中，（）是实现控制器的首选方案。A．JavaBean &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．HTMLC．Servlet &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．JSP
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p1_hyy_012</td><td>
+                         普通
+                    </td><td>
+                         阶段一
+                    </td><td>
+                     JSP基础
+                    </td><td>关于HTTP</td><td>
+                      HTTP的中文含义为（）。A．统一资源定位器 &nbsp; &nbsp; &nbsp;B．超文本传输协议C．简单邮件传输协议 &nbsp; &nbsp;D．网络套接字
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p1_hyy_018</td><td>
+                         简单
+                    </td><td>
+                         阶段一
+                    </td><td>
+                     JSP基础
+                    </td><td>Tomcat默认端口</td><td>
+                      Tomcat服务器的默认端口号是（）。A．80 &nbsp; &nbsp; &nbsp;B．21 &nbsp; C．8080 &nbsp; &nbsp; &nbsp;D．8088
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p1_hyy_019</td><td>
+                         简单
+                    </td><td>
+                         阶段一
+                    </td><td>
+                     JSP基础
+                    </td><td>静态文件与动态文件</td><td>
+                      下列动态网页和静态网页的根本区别描述错误的是（）。A．静态网页服务器端返回的HTML文件是事先存储好的B．动态网页服务器端返回的HTML文件是程序生成的C．静态网页文件里只有HTML标记，没有程序代码D．动态网页中只有程序，不能有HTML代码
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_hyy_020</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>Servlet的描述错误的是</td><td>
+                      下面（）项对Servlet描述错误？A．Servlet是一个特殊的Java类，它必须直接或间接实现Servlet接口B．Servlet接口定义了Servelt的生命周期方法C．当多个客户请求一个Servlet时，服务器为每一个客户启动一个进程D．Servlet客户线程调用service方法响应客户的请求
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_hyy_024</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>Servlet程序入口点</td><td>
+                      &nbsp;Servlet程序的入口点是：（）。A．init（） &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．main（）C．service（） &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．doGet（）
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_hyy_014</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>Servlet配置</td><td>
+                      在访问Servlet时，在浏览器地址栏中输入的路径是在（）中定义的。A．&lt;servlet-name/&gt; &nbsp; &nbsp; &nbsp;B．&lt;servlet-mapping/&gt;C．&lt;uri-pattern/&gt; &nbsp; &nbsp; &nbsp; D．&lt;url-pattern/&gt;
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_hyy_031</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>请求重定向</td><td>
+                      Servlet中，HttpServletResponse的（）方法用来把一个Http请求重定向到另外的URL。A．sendURL() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．redirectURL()C．sendRedirect() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．redirectResponse()
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_sw_021</td><td>
+                         困难
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>过滤器的配置</td><td>
+                     在使用Servlet 过滤器时，需要在 web.xml 通过____元素将过滤器映射到 Web 资源。A．&lt;filter&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．&lt;filter-mapping&gt; C．&lt;servlet&gt; &nbsp; &nbsp; &nbsp; &nbsp; D．&lt;servlet-mapping&gt;
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_2016_plain_phase2_0001</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>下面有关Servlet说法正确的是</td><td>
+                     下面有关Servlet说法正确的是（）A. Servlet必须继承父类objectB.Servlet必须继承父类HttpServletJspC. Servlet程序要先编译成class文件再运行D.Servlet程序是一种不同与Java类的程序
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_2016_plain_phase2_0002</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>和Servlet生命周期紧密相关的方法</td><td>
+                     下面哪个方法不是和Servlet生命周期紧密相关的方法A.init方法 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B.doGet方法 C.destroy方法 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D.servlet方法
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_sw_006 </td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>xml文件的配置</td><td>
+                     在web.xml中下面哪一个标签中配置Servlet的URL的映射 ________。A．mapping &nbsp; &nbsp; &nbsp; &nbsp;B．servlet-url C．url_mapping &nbsp; &nbsp; D．servlet-mapping
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_sw_005  </td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>设置内容类型</td><td>
+                     下列哪一个方法用于设置HttpServletResponse的内容类型_____________。A．setParameter &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．setContentType C．setAttribute &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．doPost 
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_sw_004 </td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>Servlet的用法</td><td>
+                      &lt;a href=&quot;indexServlet&quot;&gt;首页&lt;/a&gt;点击超链接“首页”后，indexServlet对应的Servlet中的哪个方法将被调用_____________________。A．doGet &nbsp; &nbsp; &nbsp;B．doHeadC．doPost &nbsp; &nbsp; D．doForm
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_sw_003 </td><td>
+                         简单
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>Servlet的方法2</td><td>
+                     &lt;form id=&quot;loginForm&quot;action=&quot;doLogin&quot; method=&quot;POST&quot;&gt; loginForm表单提交后，doLogin对应的Servlet中的哪个方法将被调用_____________________。A．doGet &nbsp; &nbsp; &nbsp;B．doHeadC．doPost &nbsp; &nbsp; D．doForm
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_sw_002  </td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>Servlet配置文件设置</td><td>
+                     下列哪一个XML标签表示某一个servlet的类_____________________。A．&lt;servlet-class&gt;com.abciinc.OrderServlet&lt;/servlet-class&gt; B．&lt;class&gt;com.abcinc.OrderServlet&lt;/class&gt; C．&lt;servlet&gt;com.abcinc.OrderServlet&lt;/servlet&gt; D．&lt;servletclass&gt; com.abcinc.OrderServlet&lt;/servletclass&gt; 
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_sw_001  </td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>Servlet的生命周期</td><td>
+                     下面哪个方法不属于Servlet生命周期中的方法_____________________。A．main() &nbsp; &nbsp; &nbsp;B．init()C．service() &nbsp; &nbsp;D．destroy()
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_12090</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>假设在helloapp应用中有一个HelloServlet类</td><td>
+                     假设在helloapp应用中有一个HelloServlet类，它位于org.javathinker包下，那么这个类的class文件应该放在什么目录下____________。A. helloapp/HelloServlet.class &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B. helloapp/WEB-INF/HelloServlet.classC. helloapp/WEB-INF/classes/HelloServlet.classD. helloapp/WEB-INF/classes/org/javathinker/HelloServlet.class
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>bukao-15</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>假设在helloapp应用中</td><td>
+                     .假设在helloapp应用中有一个HelloServlet类，它在web.xml文件中的配置如下:&lt;servlet&gt;&lt;servlet-name&gt; HelloServlet &lt;/servlet-name&gt;&lt;servlet-class&gt;org.javathinker.HelloServlet&lt;/servlet-class&gt;&lt;/servlet&gt;&lt;servlet-mapping&gt;&lt;servlet-name&gt; HelloServlet &lt;/servlet-name&gt;&lt;url-pattern&gt;/hello&lt;/url-pattern&gt;&lt;/servlet-mapping&gt;那么在浏览器端访问HelloServlet的URL是什么? A.http://localhost:8080/HelloServlet &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B. http://localhost:8080/helloapp/HelloServletC.http://localhost:8080/helloapp/org/javathinker/hello &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D.http://localhost:8080/helloapp/hello
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_2016_simple_phase2_0003</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>有关Servlet下面说法正确的是（）</td><td>
+                     有关Servlet下面说法正确的是（）A.由于Servlet是java类所以可以按照运行JAVA程序的方式运行。 B.Servlet需要在web.xml文件里面配置URL才能在浏览器运行 C.Servlet是用来处理业务逻辑的，不能用来显示网页 D.Servlet中也有内置对象
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_2016_plain_phase2_0004</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>下面有关servlet说法错误的是​</td><td>
+                     下面有关servlet说法错误的是A. servlet里面使用out对象需要先获取 B. servlet里面使用session对象需要先获取 C. servlet里面使用application对象需要先获取D. servlet程序不能显示网页
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_sw_020</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>Servlet的基本用法</td><td>
+                     Servlet 中，通常使用______接口中定义的______方法来处理客户端发出的表单数据请求。A．HttpServlet doHead &nbsp; &nbsp; B．HttpServlet doPostC．ServletRequest doGet &nbsp; &nbsp; D．ServletRequest doPost
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_sw_019</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>servlet配置文件</td><td>
+                     在web.xml中配置 Servlet时，可以在web.xml 文件的______元素中包括 &lt;init-param&gt;子元素。A．&lt;servlet&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．&lt;servlet-mapping&gt;C．&lt;servlet-name&gt; &nbsp; &nbsp; &nbsp; D．&lt;servlet-class&gt;
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_sw_018</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>获取Session对象</td><td>
+                     在Servlet 里，能正确获取 session 的语句是__________。A． &nbsp;HttpSessionsession = request.getSession(true); B． &nbsp;HttpSessionsession = request.getHttpSession(true); C． &nbsp;HttpSessionsession = response.getSession(true); D． &nbsp;HttpSessionsession = response. getHttpSession (true); 
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_sw_017</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>获取Session对象2</td><td>
+                      &nbsp;HttpServletRequest 类的__________方法用返回与当前请求相关联的会话，如果没有，则返回 null。A．getSession() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．getSession(true) C．getSession(false) &nbsp; &nbsp; &nbsp; D．getSession(null) 
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_sw_016  </td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>HttpSession接口</td><td>
+                     HttpSession 接口位于______包中。A． javax.servlet &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．javax.servlet.http &nbsp; C． javax.servlet.http.session &nbsp; &nbsp;D．javax.servlet.session 
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_sw_015</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>HttpServlet类 的描述</td><td>
+                     对于HttpServlet类的描述，错误的是（）______。A.自定义的Servlet继承了HttpServlet类，一般只需要覆盖doPost或者doGet方法，不必覆盖service（）方法。B.HttpServlet类扩展了GenericServlet类，实现了GenericServlet类的抽象方法service()C.HttpServlet类有两个service()方法D.直接或间接的实现了Servlet接口的Java类才能被称为Servlet
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_sw_014</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>重定向的方法2</td><td>
+                     在Servlet里，能实现重定向的方法是______。A.javax.servlet.http.HttpServletRequest接口的sendRedirect方法B.javax.servlet.http.HttpServletResponse接口的sendRedirect方法C.javax.servlet.RequestDispatcher接口的forward方法D.javax.servlet.ResponseDispatcher接口的forward方法
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_sw_013</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>Servlet的方法</td><td>
+                     Servlet服务结束时，Servlet会调用_______方法去释放资源。A.free() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B.free(ServletConfig config)C.destroy() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D.destroy (ServletConfig config) &nbsp;
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_sw_012</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>Servlet的doPost方法抛出的异常</td><td>
+                     编写Servlet的doPost方法时，需要抛出异常为_______。A.ServletException， IOExceptionB.ServletException， RemoteExceptionC.HttpServletException， IOExceptionD.HttpServletException，RemoteException
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_sw_011</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>关于Servlet</td><td>
+                     Servlet是一个在服务器上运行、处理请求信息并将其发送到客户端的Java程序。_______接受服务请求、找到Servlet类、加载Servlet类并创建Servlet对象。A.客户端 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B.IE浏览器C.Servlet容器 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D.Servlet本身
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_sw_010  </td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>Servlet生命周期</td><td>
+                     在Servlet的生命周期中，容器只调用一次的方法是_______。A.service &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B.getServletConfigC.doGet &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D.init
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_sw_009  </td><td>
+                         简单
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>Servlet的配置</td><td>
+                     下面哪一个标记与Servlet的配置无关_______。A.servlet-mapping &nbsp; &nbsp; &nbsp; &nbsp;B.servlet-classC.url-pattern &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D.taglib
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_sw_008  </td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>session的用法</td><td>
+                     下列哪一项表达式所存储的对象可以在Servlet或JSP中的session中获取得到_______。A．request.setAttribute(name,value); B．response.setAttribute(name,value); C．request.getSession().setAttribute(name,value); D．request.setParameter(name,value); 
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p2_sw_007  </td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>session的用法2</td><td>
+                     下列哪一个方法用于从session中得到对象_______。A．HttpSession接口的getValue方法B．Session接口的getValue()方法C．Session接口的get ()方法D．HttpSession接口的getAttribute()方法
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>bukao-4</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>在servlet中获取和jsp内置对象application对象相同生命周期的对象正确语句是</td><td>
+                     在servlet中获取与jsp内置对象application对象相同的对象的正确语句是：A.不用获取直接使用application &nbsp; &nbsp; &nbsp;B.request.getSession.getServletContext()C.request.getApplication(); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D.request.getHttpSession();
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>BUKAO-6</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>在servlet中获取和jsp内置对象session对象相同生命周期的对象正确语句是</td><td>
+                     在servlet中获取和jsp内置对象session对象相同的对象的正确语句是：A.不用获取直接使用session &nbsp; &nbsp; B.request.getHttpSession();C.request.getSession(); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D.response.getSession();
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1204</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>在Servlet中，我们通过什么方法获取客户端提交的数据？</td><td>
+                     在Servlet中，我们通过什么方法获取客户端提交的数据？A. request.getParameter(String param)B. request.setParameter(String param)C. request.getAttribute(String param)D. request.setAttribute(String param)
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_10107</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>在Servlet编程中，通常是使用(  )接口中定义的(  ) 方法来处理客户端以默认方式提交的表单数据</td><td>
+                     在Servlet编程中，通常是使用( &nbsp;)接口中定义的( &nbsp;) 方法来处理客户端以默认方式提交的表单数据。A．HttpServlet ，doHead &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．HttpServlet ，doPostC．HttpServletRequest ，doGet &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．HttpServletRequest ，doPost
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1208</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>假设在JSPexe应用中有一个MyFirstServlet类，它在web.xml文件中的配置如下</td><td>
+                     假设在JSPexe应用中有一个MyFirstServlet类，它在web.xml文件中的配置如下:&lt;servlet&gt; &nbsp; &nbsp;&lt;servlet-name&gt; a &lt;/servlet-name&gt; &nbsp; &nbsp;&lt;servlet-class&gt;com.xyz.MyFirstServlet&lt;/servlet-class&gt;&lt;/servlet&gt;&lt;servlet-mapping&gt; &nbsp; &nbsp;&lt;servlet-name&gt;a &lt;/servlet-name&gt; &nbsp; &nbsp;&lt;url-pattern&gt;/myfirstServlet&lt;/url-pattern&gt;&lt;/servlet-mapping&gt;假定JSPexe应用的根目录是/JSPexe，则在浏览器端访问MyFirstServlet的URL是________。A．http://localhost:8080/myfirstServletB．http://localhost:8080/JSPexe/myfirstServletC．http://localhost:8080/JSPexe/com/xyz/MyFirstServlet &nbsp;D．http://localhost:8080/JSPexe/MyFirstServlet
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1219</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>接口定义了getSession()方法，用于获取当前的session对象</td><td>
+                     下面的________接口定义了getSession()方法，用于获取当前的session对象。A．HttpServletRequest &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．HttpServletResponseC．ServletRequest &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．ServletResponse
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1340</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>在Servlet中不能处理客户端POST方式提交的中文乱码的是</td><td>
+                     在Servlet中不能处理客户端POST方式提交的中文乱码的是____________A．设置HTTP请求的编码为GB2312 B．在接收参数之前输入代码：request.setCharacterEncoding(&quot;GB2312&quot;); C．设置HTTP请求的编码为GBK D．在接收参数之前输入代码：request.setCharacterEncoding(&quot;ISO8859-1&quot;)
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1329</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>在Servlet中，可用下面的哪个方法获取客户端提交的数据</td><td>
+                     在Servlet中，可用下面的哪个方法获取客户端提交的数据？____________A．request.getParameter(String param) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．request.setParameter()C．request.getattribute(String param) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．request.setattribute()
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1330</td><td>
+                         困难
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>假设在WebApp应用中有一个HelloServlet类</td><td>
+                     假设在WebApp应用中有一个HelloServlet类，它在web.xml文件中的配置如下:&lt;servlet&gt;&lt;servlet-name&gt; HelloServlet &lt;/servlet-name&gt;&lt;servlet-class&gt;servlet.demo.HelloServlet&lt;/servlet-class&gt;&lt;/servlet&gt;&lt;servlet-mapping&gt;&lt;servlet-name&gt; HelloServlet &lt;/servlet-name&gt;&lt;url-pattern&gt;/firstServlet&lt;/url-pattern&gt;&lt;/servlet-mapping&gt;那么在浏览器端访问HelloServlet的URL是________。A．http://localhost:8080/firstServletB．http://localhost:8080/WebApp/firstServletC．http://localhost:8080/WebApp/servlet/demo/firstServletD．http://localhost:8080/WebApp/HelloServlet
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1203</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>下面哪个接口定义了getSession()方法</td><td>
+                     下面哪个接口定义了getSession()方法A．ServletRequest &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．ServletResponse &nbsp; &nbsp; &nbsp; C．HttpServletRequest &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．HttpServletResponse
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1204</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>关于HttpSession对象，以下哪种说法是错误的</td><td>
+                     关于HttpSession对象，以下哪种说法是错误的A．会话的超时时间设为-1，则会话永远不会到期B．一旦用户关闭所有浏览器窗口，当前会话对象会立即被注销C．在Servlet容器定义的会话超时时间超时后，会话将无效 &nbsp; &nbsp; D．可以调用HttpSession.invalidate（）方法注销会话对象
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1220</td><td>
+                         简单
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>在Servlet API的继承体系中，Servlet类的最顶层接口是</td><td>
+                     在Servlet API的继承体系中，Servlet类的最顶层接口是________。A．Servlet &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．GenericServletC．HttpServlet &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．HttpServletRequest
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1322</td><td>
+                         简单
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>Servlet技术的缺点是</td><td>
+                     Servlet技术的缺点是 &nbsp;___________。A．可移植性差 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．功能不够强大C．安全性差 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．编写页面显示代码很麻烦
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1221</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>下面关于Servlet的描述中，正确的</td><td>
+                     下面关于Servlet的描述中，正确的是________。A．Servlet类必须定义构造方法，以实例化Servlet对象B．Servlet对象的生命周期由应用程序进行管理C．当需要设置Servlet的启动优先级，可以通过在web.xml中设置其load-on-startup属性实现D．Servlet类的包路径就是访问该Servlet类的URL
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1214</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>下面关于Servlet的描述中，错误的是</td><td>
+                     下面关于Servlet的描述中，错误的是________。A．Servlet程序中可以直接使用JSP内置对象B．Servlet对象的创建、管理与注销有Servlet容器负责C．Servlet是一种基于Java语言编写的CGI程序，以代替传统的CGI程序D．可以在web.xml中为Servlet配置访问的URL
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1320</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>假设在WebDemo应用项目中有一个名为MyServlet的Servlet类</td><td>
+                     假设在WebDemo应用项目中有一个名为MyServlet的Servlet类，它在web.xml文件中的配置如下:&lt;servlet&gt;&lt;servlet-name&gt; MyServlet &lt;/servlet-name&gt;&lt;servlet-class&gt;org.javathinker.MyServlet&lt;/servlet-class&gt;&lt;/servlet&gt;&lt;servlet-mapping&gt;&lt;servlet-name&gt; MyServlet &lt;/servlet-name&gt;&lt;url-pattern&gt;/myservlet&lt;/url-pattern&gt;&lt;/servlet-mapping&gt;那么在浏览器端访问MyServlet的正确URL是________。A．http://localhost:8080/myservletB．http://localhost:8080/WebDemo/myservletC．http://localhost:8080/WebDemo/org/javathinker/myservletD．http://localhost:8080/WebDemo/MyServlet
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1205</td><td>
+                         普通
+                    </td><td>
+                         阶段二
+                    </td><td>
+                     Servlet基础
+                    </td><td>假设在BookStore应用中有一个类名为Login的Servlet，它在web.xml文件中的配置如下</td><td>
+                     假设在BookStore应用中有一个类名为Login的Servlet，它在web.xml文件中的配置如下:&lt;servlet&gt;&lt;servlet-name&gt; login &lt;/servlet-name&gt;&lt;servlet-class&gt;com.bs.action.Login&lt;/servlet-class&gt;&lt;/servlet&gt;&lt;servlet-mapping&gt;&lt;servlet-name&gt; login &lt;/servlet-name&gt;&lt;url-pattern&gt;/login.do &lt;/url-pattern&gt;&lt;/servlet-mapping&gt;那么在浏览器端访问Login这个Servlet的URL是________，BookStore应用的根目录是/BookStore。A．http://localhost:8080/ com.bs.action.LoginB．http://localhost:8080/BookStore/ LoginC．http://localhost:8080/BookStore/login D．http://localhost:8080/BookStore/login.do
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1206</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>下面哪个对象不是JSP的内置对象</td><td>
+                     下面哪个对象不是JSP的内置对象 &nbsp;___________。A．request &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．sessionC．out &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．include
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1105</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>给定&lt;%@ page isELIgnored=”true”%&gt; ，它有什么作用</td><td>
+                     给定&lt;%@ page isELIgnored=”true”%&gt; ，它有什么作用 ___________。A．什么作用都没有，没有定义这个page指令属性B．JSP容器会把包含这个指令的JSP看作是XML文件C．如果包含这个指令，则JSP容器会忽视JSP页面中的表达式语言代码 &nbsp; &nbsp; &nbsp; D．以上说法都不对
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1104</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>在JSP的page指令中，可以多次设置的属性是</td><td>
+                     在JSP的page指令中，可以多次设置不同属性值的属性是____________。A．buffer属性 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．import属性C．extends属性 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．errorpage属性
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1106</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下面哪个JSP指令可以实现在页面中包含文件</td><td>
+                     下面哪个JSP指令可以实现在页面中包含文件：____________A．&lt;jsp:include&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．&lt;jsp:useBean&gt;C．&lt;jsp:plugin&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．&lt;%@ include file=”top.jsp”%&gt;
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1107</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>给定JSP程序源码如下，在&quot;Hello&quot;后面添加代码能够正确输出HELLO,TOM的语句是</td><td>
+                     1．给定JSP程序源码如下，在&quot;Hello&quot;后面添加代码能够正确输出HELLO,TOM的语句是&lt;html&gt;&lt;body&gt;&lt;% &nbsp; String str=”TOM”;%&gt;HELLO,&lt;/body&gt;&lt;/html&gt;A．str &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．&lt;%= str %&gt;C．out.println(str); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．&lt;% str %&gt;
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_10103</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下列说法中正确的是</td><td>
+                     下列说法中正确的是____________。A.include指令中file属性指定要包含的文件名B.include指令中file属性的值可以动态的设定C.&lt;jsp:forward&gt;动作可以实现跳转到任意页面D.必须在使用自定义标签之前使用&lt;% @page %&gt;指令
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_12061</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>在session对象中可以获得指定名称的属性值的方法是</td><td>
+                     在session对象中可以获得指定名称的属性值的方法是： &nbsp; &nbsp; A．getAttribute(String attributeName) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．getAttributeName(String attributeName) &nbsp;C．getId() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．getParameter(String paramName)
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_11071</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>在JSP页面中使用JavaBean时不会用到的动作是</td><td>
+                     在JSP页面中使用JavaBean时不会用到的动作是。A．&lt;javabean&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．&lt;jsp:useBean&gt;C．&lt;jsp:setProperty&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．&lt;jsp:getProperty&gt;
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1214</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>在JSP中使用&lt;jsp:getProperty&gt;动作时，不会出现的属性是</td><td>
+                     在JSP中使用&lt;jsp:getProperty&gt;动作时，不会出现的属性是：____________。A. name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B. property &nbsp; &nbsp; C. value &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D. 以上皆不会出现
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1115</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>在page指令中，用于设置当页面产生异常时跳转到指定页面的属性</td><td>
+                     在page指令中，用于设置当页面产生异常时跳转到指定页面的属性是___________。A．isErrorPage &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．errorPageC．error &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．info
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1116</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下列说法中错误的是</td><td>
+                     下列说法中错误的是____________。A.include指令中file属性指定要包含的文件名B.&lt;jsp:include&gt;动作中file属性的值可以动态的设定C.使用&lt;jsp:forward&gt;动作跳转时，浏览器地址栏的地址不会变化D.在使用标签库时必须设置&lt;% @taglib %&gt;指令
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1115</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下面对&lt;jsp:include&gt;动作的语法格式，正确描述的是</td><td>
+                     下面对&lt;jsp:include&gt;动作的语法格式，正确描述的是____________。A．&lt;jsp:include file=”target.jsp”&gt; B．&lt;jsp:include page=”target.jsp”&gt;C．&lt;% jsp:include file=”target.jsp”%&gt;D．&lt;% jsp:include page=”target.jsp”%&gt;
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1117</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>&lt;jsp:getProperty&gt;动作有两个属性，分别是</td><td>
+                     &lt;jsp:getProperty&gt;动作有两个属性，分别是____________。A．id和property &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．name和value C．id和value &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．name和property
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1116</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>JSP Page指令中的属性isELIgnored=&quot;boolean&quot;用于</td><td>
+                     JSP Page指令中的属性isELIgnored=&quot;boolean&quot;用于________。A．决定是否实现Servler的单线程模式，B．决定改页面是否是一个错误处理页面，C．决定是否支持EL表示，D．没有具体的含义。
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1118</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下面的哪一种注释方式，其注释内容在客户端是可见</td><td>
+                     下面的哪一种注释方式，其注释内容在客户端是可见____________。A．&lt;%-- 注释内容--%&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．&lt;%//注释内容%&gt;  &nbsp; &nbsp; &nbsp;C．&lt;%/* 注释内容*/%&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．&lt;!-- 注释内容--&gt;
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1215</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>为弥补HTTP协议存在的不足，引入了____________用于存储特定的用户会话所需的信息</td><td>
+                     为弥补HTTP协议存在的不足，引入了____________用于存储特定的用户会话所需的信息。A．pageContext对象 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．request对象C．session对象 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．application对象
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1217</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>关于response对象的sendRedirect方法，下面哪一项描述是错误的</td><td>
+                     关于response对象的sendRedirect方法，下面哪一项描述是错误的____________。A．sendRedirect方法将客户请求重定向到指定的页面；B．sendRedirect方法重定向不会改变浏览器地址栏的地址信息；C．sendRedirect将导致request、response对象生命周期结束；D．sendRedirect重定向不局限于在网站内部跳转，可以重定向到任意页面。
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1218</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>关于session对象，下面哪一项描述是错误的</td><td>
+                     关于session对象，下面哪一项描述是错误的____________。A．session对象所属类型是：javax.servlet.http.HttpSession; &nbsp;B．当客户端关闭浏览器后，session对象就会消失；C．在Servlet中不用实例化也可以直接使用session对象；D．session对象常用来保存信息以维持客户端与服务器之间的联系。
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1216</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>从浏览器提交到服务器的数据中因为包含有中文而出现乱码时，可用request对象的</td><td>
+                     从浏览器提交到服务器的数据中因为包含有中文而出现乱码时，可用request对象的____________方法进行重新编码，解决中文乱码问题。A．setHeader &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．setContentTypeC．getCharacterEncoding &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．setCharacterEncoding
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1218</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>在JSP中，需要向浏览器端写入Cookie信息须使用内置对象</td><td>
+                     在JSP页面中，需要向浏览器端写入Cookie信息须使用内置对象__________。A．request &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．outC．response &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．session
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1213</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下面哪一个不是JSP页面会自动加载的java包</td><td>
+                     下面哪一个不是JSP页面会自动加载的java包___________。A．java.lang包 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．javax.servlet.jsp包C．javax.servlet包 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．java.io包
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1123</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下面关于&lt;jsp:setProperty&gt;说法中错误的是</td><td>
+                     下面关于&lt;jsp:setProperty&gt;说法中错误的是____________A. &lt;jsp:setProperty&gt;用来设置已经实例化的Bean对象的属性 B. name属性：表示实例化的Bean的引用名称 C. value属性用来设定property指定的属性的值 D. 以上说法全部错误
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1119</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>&lt;jsp:useBean&gt;动作必须设置的属性有</td><td>
+                     &lt;jsp:useBean&gt;动作必须设置的属性有____________。A．id &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．class &nbsp; &nbsp; &nbsp;C．scope &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．type
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1224</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>下面关于request对象说法错误的是</td><td>
+                     下面关于request对象说法错误的是____________A. 当客户端请求一个JSP网页时，JSP引擎会将客户端的请求信息包装在这个request对象中 B. request对象的addCookie(Cookie cookie)方法可将cookie对象传回客户端C. getParameterNames()方法返回本次请求的所有参数名称 D. getParameter(String param)方法返回param参数对应的值的字符串
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1101</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下面哪条指令指定了HTTP响应的类型是“html/text”</td><td>
+                     下面哪条指令指定了HTTP响应的类型是“html/text” ___________。A．&lt;%@ page type=”html/text”%&gt; B．&lt;%@ page mimeType=”html/text”%&gt; &nbsp; &nbsp; C．&lt;%@ page contentType=”html/text”%&gt;  &nbsp; &nbsp; &nbsp;D．&lt;%@ page pageEncoding=”html/text”%&gt;
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1102</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下面哪个例子正确展示了在JSP中导入一个类的语法</td><td>
+                     下面哪个例子正确展示了在JSP中导入一个类的语法：____________A．&lt;% page import=”java.util.Date”%&gt; &nbsp;B．&lt;%@ page import=”java.util.Date”%&gt;C．&lt;%@ page import=”java.util.Date”% @&gt; &nbsp; &nbsp; &nbsp;D．&lt;%@ page import file=”java.util.Date”%&gt;
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1301</td><td>
+                         困难
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>给定JSP代码判断如下，会得到什么输出？</td><td>
+                     给定JSP代码如下，判断会得到什么输出？____________ &lt;%@ page isELIgnored=”true”%&gt; &lt;% @ taglib uri=” http://java.sum.com/jsp/jstl/core” &nbsp;prefix=”c” %&gt; &lt;c:set var=”name” value=”jsp”&gt; &nbsp;${name}A．${name} &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．jspC．无输出 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．会抛出异常，因为taglib指令都必须放在page指令前面
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1103</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>有关&lt;jsp:useBean&gt;标准动作，以下说法正确的是</td><td>
+                     有关&lt;jsp:useBean&gt;标准动作，以下说法正确的是____________。A．scope属性是必须设定的B．id属性是可选的C．scope属性是可选的，默认值是request &nbsp; &nbsp; &nbsp;D．class或type属性是可选的，但至少指定一个
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1212</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>下面关于application对象的描述错误的是</td><td>
+                     下面关于application对象的描述错误的是________。A．application 是实现javax.servlet.ServletContext接口的对象B．application对象保存着整个Web应用运行期间的全局数据和信息C．当Web应用启动时，application对象会被创建，直到Web应用被关闭或重启D．application对象未提供设置或获取对象属性的方法
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1101</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下面哪一个不是JSP页面会自动加载的Java包</td><td>
+                      下面哪一个不是JSP页面会自动加载的Java包___________。A. java.lang包 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; C．javax.servlet.jsp包B. javax.servlet包 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．java.io包
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1102</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>下面关于request对象说法错误的是</td><td>
+                     下面关于request对象说法错误的是____________。A. 当客户端请求一个JSP网页时，JSP引擎会将客户端的请求信息包装在这个request对象中B. getServerName() 返回接收请求的服务器的主机名和端口号C. getParameterNames( )方法返回本次请求的参数变量名，返回的是Enumeration类型 D. getParameter(String param)方法返回包含指定参数的字符串值
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1103</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>下面关于session对象说法中错误的是</td><td>
+                     下面关于session对象说法中错误的是____________。A. session对象实现的是javax.servlet.http.HttpSession接口B. session可以用来储存访问者的一些特定信息C. 每个session对象都有一个独一无二的IDD. 当用户在应用程序的页之间跳转时，存储在session对象中的变量会被清除
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1104</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下面哪个JSP指令可以实现在页面中包含文件：</td><td>
+                     下面哪个JSP指令可以实现在页面中包含文件：____________。A. &lt;jsp:include&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; C. &nbsp;&lt;%@ include file=”leftmenu.jsp”%&gt;B. &lt;jsp:plugin&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D. &nbsp;&lt;jsp:useBean&gt;
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_013</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>获取前一个页面中用户通过form表单提交的数据的正确的语句是：</td><td>
+                     获取前一个页面中用户通过form表单提交的数据的正确的语句是：假定表单数据参数名为paramA.response.getAttribute(“param”); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B. request.getAttribute(“param”);C.response.getParameter(“param”); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D. request.getParameter(“param”);
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1213</td><td>
+                         困难
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>下面关于out对象的常用方法，描述错误的是</td><td>
+                     下面关于out对象的常用方法，描述错误的是________。A．out.print()是用于输出数据 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．out.flush()是清除缓冲区的内容C．out.newLine()用来输出一个换行符 &nbsp; &nbsp; &nbsp; &nbsp; D．out.close()方法用来关闭输出流
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1225</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>下面关于session对象的说法中错误的是</td><td>
+                     下面关于session对象的说法中错误的是____________A. session对象实现的是javax.servlet.httpp.HttpSession接口的对象B. session可以用来储存访问者的一些特定信息C. session可以创建访问者信息容器。D. 当用户在应用程序的页之间跳转时，存储在session对象中的变量会清除
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1126</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下面哪个JSP指令可以实现在页面中包含文件</td><td>
+                     下面哪个JSP指令可以实现在页面中包含文件：____________A．&lt;jsp:include&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．&lt;jsp:useBean&gt;C．&lt;jsp:plugin&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．&lt;%@ include file=”leftmenu.jsp”%&gt;
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1127</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下面哪一项不是JSP的page指令的属性</td><td>
+                     下面哪一项不是JSP的page指令的属性____________A．path &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．languageC．isThreadSafe &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．isErrorPage
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1121</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>如果要在JSP页面中不支持使用表达式语言（EL），须</td><td>
+                     如果要在JSP页面中不支持使用表达式语言（EL），须_________。A．将page指令中的isELIgnored设置为false；B．将page指令中的isELIgnored设置为true；C．将page指令中的language设置为expressionLanguage； &nbsp; &nbsp; &nbsp; &nbsp;D. 无需作任何设置
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1128</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下面说法正确的是</td><td>
+                     下面说法正确的是: ____________A．JSP表达式主要用于赋值 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．import不是JSP &nbsp;page指令常见的属性C．JSP表达式主要用于数据的输出 &nbsp; &nbsp; D．errorPage是JSP的动作组件
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1132</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>在客户端浏览器中可看到在JSP页面中编写的下面哪一种正确的注释 ____________。</td><td>
+                     下面哪一种JSP页面中的注释在客户端浏览器中可看到 ____________。A．&lt;! -- 注释 -- &gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．&lt;% -- 注释 -- %&gt;C．&lt;% // 注释 %&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．&lt; -- 注释 -- &gt;
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1133</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>在JSP的page指令中，可以多次设置的属性是</td><td>
+                     在JSP的page指令中，可以多次设置的属性是____________。A．buffer属性 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．import属性C．extends属性 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．errorpage属性
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1134</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>JSP文件的页面内容由下面哪两部分构成</td><td>
+                     JSP文件的页面内容由下面哪两部分构成：____________。A．JSP元素与模板文本 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．Java代码与HTML代码C．JSP标签与HTML标签 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．Java代码与JavaScript代码
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1135</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下面关于page指令的属性说法错误的是</td><td>
+                     下面关于page指令的属性说法错误的是____________A．import属性用于指定导入哪些包 B．contentType属性用来指定JSP页面的字符编码和响应的MIME类型 C．isThreadSafe属性用来设定JSP文件是否能多线程使用 D．session属性用于设定页面是否可使用session对象，其默认值false
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1136</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>JSP的page指令用于定义JSP文件中的全局属性，下列关于该指令用法的描述不正确的是</td><td>
+                     JSP的page指令用于定义JSP文件中的全局属性，下列关于该指令用法的描述不正确的是：____________。A．&lt;%@ page %&gt;作用于整个JSP页面。B．在一个页面中不能同时使用多个&lt;%@ page %&gt;指令。C．为增强程序的可读性，建议将&lt;%@ page %&gt;指令放在JSP文件的开头，但不是必须的。D．&lt;%@ page %&gt;指令中的language属性用于指定所使用的脚本语言，默认为Java。
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1137</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下面关于JSP include指令的语法格式，正确书写的是</td><td>
+                     下面关于JSP include指令的语法格式，正确书写的是____________。A．&lt;%@ include file = “logo.htm” %&gt;B．&lt;%@ include page = “logo.htm”%&gt;C．&lt;% include file = “logo.htm”%&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．&lt;%@ include file = “logo.jsp?name=jsp”%&gt;
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1238</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>关于request对象，下面哪一项描述是错误的</td><td>
+                     关于request对象，下面哪一项描述是错误的____________。A．request对象表示从客户端向服务器发出的请求；B．request对象封装了用户提交的信息和客户端的一些信息；C．request对象所属类型是javax.servlet.http.HttpServletRequest; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．从request对象中获取页面传递的参数值的方法是：object getAttribute(String param)
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1109</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>JSP的page指令用于定义JSP文件中的全局属性，下列关于该指令用法的描述正确的是</td><td>
+                     JSP的page指令用于定义JSP文件中的全局属性，下列关于该指令用法的描述正确的是：____________。A．&lt;%@ page %&gt;指令作用于整个JSP页面。B．在一个页面中不能同时设置多个&lt;%@ page %&gt;指令。C． &lt;%@ page %&gt;指令必须放在JSP文件的第一行。D．&lt;%@ page %&gt;指令中的language属性用于指定所使用的脚本语言，默认为JSP。
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_10105</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>当需要针对用户存储用户的访问信息或跟踪用户的访问路径时，通常是把用户的访问信息存储在哪个内置对象中</td><td>
+                     当需要针对用户存储用户的访问信息或跟踪用户的访问路径时，通常是把用户的访问信息存储在哪个内置对象中____________。A．pageContext对象 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．request对象C．session对象 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．application对象
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1111</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下列说法中正确的是</td><td>
+                     下列说法中正确的是____________。A.include指令中page属性指定要包含的文件名B.&lt;jsp:include&gt;动作中file属性的值可以动态的设定C.使用&lt;jsp:forward&gt;动作时，可以跳转到任意网页 &nbsp; &nbsp; &nbsp; &nbsp;D. 在使用标签库时必须设置&lt;% @taglib %&gt;指令
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1102</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下面关于page指令说法中错误的是</td><td>
+                     下面关于page指令说法中错误的是:A.page指令用来定义JSP页面中的全局属性 &nbsp; B.一个JSP页面只能包含一个page指令 &nbsp; C.除了import外，其他page指令定义的属性/值只能出现一次。 &nbsp; D.language属性用来指示所使用的脚本语言
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1201</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>下面哪个是合法的JSP内置对象</td><td>
+                     下面哪个是合法的JSP内置对象A．exception &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．streamC．context &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．HttpRequest
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1207</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>当需要针对用户存储用户的访问信息或跟踪用户的访问路径时，通常是把用户的访问信息存储在哪个内置对象中</td><td>
+                     当需要针对用户存储用户的访问信息或跟踪用户的访问路径时，通常是把用户的访问信息存储在哪个内置对象中____________。A．pageContext对象 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．request对象C．session对象 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．application对象
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_10104</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>下面对out对象说法错误的是__</td><td>
+                     下面对out对象说法错误的是____________。A．out对象用于输出数据 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．out对象的范围是application。C．out.newLine()方法用来输出一个换行符 &nbsp; &nbsp; &nbsp;D．out.close()方法用来关闭输出流
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1108</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下面哪一项不是JSP的page指令的属性</td><td>
+                     下面哪一项不是JSP的page指令的属性____________A．path &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．languageC．isThreadSafe &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．isErrorPage
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_10106</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>给定JSP程序源码如下，可以在下划线处插入并且能够正确输出WELCOME,JACK的语句是</td><td>
+                      给定JSP程序源码如下，可以在下划线处插入并且能够正确输出WELCOME,JACK的语句是( )&lt;html&gt;&lt;body&gt;&lt;% &nbsp; String name=”JACK”;%&gt;WELCOME, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&lt;/body&gt;&lt;/html&gt;A．name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．&lt;%=name%&gt;C．out.println(name); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．&lt;%name%&gt;
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1113</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下面关于JSP表达式元素，语法格式正确的是</td><td>
+                     下面关于JSP表达式元素，语法格式正确的是____________。A．&lt;%expression;%&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．&lt;%=expression%&gt; C．&lt;%=expression;&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．&lt;%!expression%&gt;
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_10108</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>给定JSP程序源码如下，该JSP运行后输出的结果是</td><td>
+                     给定JSP程序源码如下，该JSP运行后输出的结果是 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 。&lt;html&gt;&lt;%int count =1;%&gt;Count: &lt;%++count;%&gt;&lt;/html&gt;A．Count：1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．Count：2C．1：2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．Count：
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1114</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>内置对象request对象中的___________方法是用于获取客户端提交的某个指定参数对应的字符串</td><td>
+                     内置对象request对象中的___________方法是用于获取客户端提交的某个指定参数对应的字符串。A．getAttribute &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．getParameterC．getParameterName &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．getContentType
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1209</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>下面关于Cookie的描述，错误的是</td><td>
+                     下面关于Cookie的描述，错误的是___________。A.Cookie用于在浏览器客户端保存用户的信息，和Session没有任何关系。B.在JSP页面中获取客户端Cookie信息的方法是request.getCookies();C.在JSP中从服务器端向浏览器端写入Cookie信息的方法是response.addCookie(Cookieobj);D.Cookie信息在浏览器客户端存在的时间是可设定的。
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1210</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>内置对象session实现了Servlet API中的_________接口</td><td>
+                     内置对象session实现了Servlet API中的_________接口。A．java.servlet.http.Session &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．javax.servlet.http.SessionC．javax.servlet.http.HttpSession &nbsp; &nbsp; &nbsp; &nbsp; D．java.servlet.http.HttpSession
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1211</td><td>
+                         困难
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>关于HttpSession对象，以下哪种说法是正确的</td><td>
+                     关于HttpSession对象，以下哪种说法是正确的________。A．HttpSession对象的超时时间设为-1，表示对象会立即无效B．一旦用户关闭所有浏览器窗口，服务器端的HttpSession对象会立即被注销C．HttpSession对象的默认超时时间是24小时 &nbsp; &nbsp; &nbsp;D．可以调用HttpSession.invalidate（）方法显示的注销HttpSession对象
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1106</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下面关于page指令说法中错误的是</td><td>
+                     下面关于page指令说法中错误的是____________。A. page指令用来定义JSP页面中的全局属性 B. 一个JSP页面只能包含一个page指令 C. 除了import外，其他page指令定义的属性/值只能出现一次。 D. language属性用来指示所使用的脚本语言 
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1107</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下面语法格式，正确描述的是</td><td>
+                     下面对&lt;jsp:include&gt;动作的语法格式，正确描述的是____________。A. &lt;jsp:include file=”target.jsp”&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; C. &nbsp;&lt;jsp:include page=”target.jsp”&gt;B. &lt;% jsp:include file=”target.jsp”%&gt; &nbsp; &nbsp; &nbsp; &nbsp; D．&lt;% jsp:include page=”target.jsp”%&gt; 
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1202</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>JSP页面中的输出语句是</td><td>
+                     在JSP页面中使用内置对象out实现输出的语句是___________。A．System.out.print() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．Println()C．out.println() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．out.printValues()
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_012</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>response对象的sendRedirect(“help.jsp”)方法的主要功能是</td><td>
+                     2.response对象的sendRedirect(“help.jsp”)方法的主要功能是：A.向help.jsp页面发送信息 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B. 将用户请求重定向到help.jspC.终止用户对help.jsp页面的请求 &nbsp; &nbsp; &nbsp; D. 获取help.jsp页面的参数信息
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_011</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>session对象的invalidate()方法的主要作用是</td><td>
+                      &nbsp; &nbsp; session对象的invalidate()方法的主要作用是：A.让会话有效 &nbsp; &nbsp; &nbsp;B.让会话超时C.让会话打开 &nbsp; &nbsp; &nbsp; D.让会话失效，销毁session对象
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_009</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>JSP程序中的语句“out.println(“春天过去了”);</td><td>
+                     JSP程序中的语句“out.println(“春天过去了”);”的功能是什么：A.将字符串输出到服务器B.将字符串输出到控制台C.将字符串输出到页面 &nbsp; &nbsp;D.有语法错误
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_008</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>的正确含义是什么</td><td>
+                     &lt;%@page import=”java.sql.*”%&gt; 的正确含义是什么：A.这条语句有语法错误，page应该改为taglib。B.java.sql这个包不需要引入，因为JSP中会自动引入这个包C.引入包java.sql &nbsp;  D. 引入包java.util
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_007</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>设置页面的字符编码方式</td><td>
+                     &lt;%@page pageEncoding=&quot;UTF-8&quot;%&gt;的正确含义是什么：A.设置JSP页面的字符编码方式，设置为UTF-8B.设置JSP页面的默认脚本语言为UTF-8C.设置JSP页面的MIME类型为UTF-8D.设置JSP页面的出错显示页面为UTF-8
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_006</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>Jsp表达式</td><td>
+                     &lt;%=new Date()%&gt;的正确含义是什么A.语法错误，应该是&lt;%=new Date();%&gt;B.语法错误，应该是&lt;%=new Date()%&gt;; C.语法错误，应该是&lt;%new Date()%&gt; D.Jsp表达式，输出当前系统日期
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_005</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>jspForward1.jsp要把请</td><td>
+                     jspForward1.jsp要把请求转发给jspForward2.jsp，应该在jspForward1.jsp中如何实现? A.&lt;a href=“jspForward2.jsp”&gt;jspForward2.jsp &lt;/a&gt;B.&lt;jsp:forward page=&quot;jspForward2.jsp&quot; /&gt;C.&lt; forward =“jspForward2.jsp”&gt;D.&lt;jsp:include file=&quot;jspForward2.jsp&quot;/&gt;
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_2016_plain_phase3_0001</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下面哪个选项是jsp表达式的正确语法</td><td>
+                     下面哪个选项是jsp表达式的正确语法（）A. &lt;!=Math.random()!&gt;B. &lt;%=Math.random();%&gt;C. &lt;%System.out.println(&quot;abc&quot;);&gt;D.&lt;%=new Date()%&gt;
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_2016_plain_pahse3_0002</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>有关page指令，下面哪个语法是正确的</td><td>
+                     有关page指令，下面哪个语法是正确的（）A. &lt;@ page import=&quot;java.util.*&quot;&gt; B. &lt;%@ page import=&quot;java.util.*&quot; import=&quot;com.entity.student&quot;%&gt; C. &lt;%@ page language=&quot;Java&quot; language=&quot;JSP&quot;%&gt; D. &lt;%@ page contentType=&quot;text/html&quot;%&gt;
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_2016_plain_phase3_0003</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>通过include指令包含一个页面的正确语法是</td><td>
+                     通过include指令包含一个页面的正确语法是（）A. &nbsp;&lt;%@ include page=&quot;a.jsp?str=&#39;abc&#39;&quot;%&gt; B. &lt;%@ include page=&quot;a.jsp&quot;%&gt; C. &lt;%@ include file=&quot;a.jsp?str=&#39;abc&#39;&quot;%&gt; D. &lt;%@ include file =&quot;a.jsp&quot; %&gt; 
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_2016_plain_phase3_0004</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>通过include动作包含一个页面的正确语法是：​</td><td>
+                     通过include动作包含一个页面的正确语法是： &nbsp;A. &lt;jsp:include file=&quot;a.jsp&quot;/&gt;B. &nbsp;&lt;jsp:include page=&quot;a.jsp&quot;/&gt; C. &lt;%@ inlcude file=&quot;d.jsp&quot;%&gt;  &nbsp; D &lt;%@ include page=&quot;a.jsp&quot;%&gt; &nbsp;
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_2016_plain_phase3_0005</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下面哪个jsp动作可以实现页面跳转</td><td>
+                     下面哪个jsp动作可以实现页面跳转（）A.&lt;%@ forward file=&quot;a.jsp&quot;%&gt;B.&lt;jsp:forward file=&quot;a.jsp&quot;&gt;C.&lt;jsp:forward page=&quot;/login&quot;&gt;D.&lt;jsp:forward file=&quot;/login&quot;&gt;
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_003</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>JSP内嵌对象session</td><td>
+                     JSP内置对象session的类型为javax.servlet.http.HttpSession，下述语句会使该对象失效的是：A.session.dispose();B.session.clear();C.session.invalidate();D.session.removeAll();
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_002</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>page指令中</td><td>
+                     page指令中下面哪个属性是将页面设置为错误页面（）A. isELIgnored=”true” &nbsp; &nbsp; B. errorPage=”true”C. isErrorPage=”true” &nbsp; &nbsp; D. extends=”this.jsp”
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_001</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下面哪一个不是JSP页面</td><td>
+                     下面哪一个不是JSP页面会自动加载的java包___________。A．java.lang包 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．javax.servlet.jsp包C．javax.servlet包 &nbsp; &nbsp; &nbsp; D．java.io包
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016-3-xz-001</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>解决汉字中文乱码</td><td>
+                     下面那一句是解决提交数据中的汉字中文乱码问题：A.request.toChinese();B.response.setContentType(“text/html;charset=utf-8”);C.request.setCharacterEncoding(“utf-8”);D.request.setContentType(“text/word”;charset=”utf-8”);
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016-3-xz-002</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>静态包含页</td><td>
+                     &lt;%@ includepage=”welcome.jsp”%&gt;的正确含义是什么：A. 静态包含页面welcome.jspB. 动态包含页面welcome.jspC．有语法错误D．静态和动态混合包含页面welcome.jsp
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1110</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>对于&lt;%!声明%&gt;的说法错误的是</td><td>
+                     对于&lt;%!声明%&gt;的说法错误的是：A. 一次可声明多个变量和方法，只要以“;”结尾就行B. 声明的变量将作为局部变量C. 一个声明仅在一个页面中有效D. 声明的变量将在JSP页面初始化时初始化
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1112</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>有一个字符串变量 String helloStr</td><td>
+                     有一个字符串变量 String helloStr=&quot;欢迎你来到成都！&quot;; &nbsp;在JSP页面中以下哪种输出方式输出helloStr的值是正确的____________。A. &lt;%= helloStr %&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; C. &nbsp;&lt;% helloStr str;%&gt;B. &lt;%system.out.println(helloStr str)%&gt; &nbsp; &nbsp; &nbsp; &nbsp; D. &nbsp;&lt;%jsp.out.println(helloStr str)%&gt;
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1113</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>page指令中设置isELIgnored属性表示</td><td>
+                      page指令中设置isELIgnored属性表示___________。A. 决定是否实现Servler的单线程模式 &nbsp; &nbsp; &nbsp; &nbsp; C. 决定是否支持Expression Language &nbsp; B. 决定该页面是否是一个错误处理页面 &nbsp; &nbsp; &nbsp; &nbsp;D. 没有具体的含义。
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1114</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下面关于page指令的属性说法错误的是</td><td>
+                     下面关于page指令的属性说法错误的是______________。A. import属性用于指定要导入的包 B. contentType属性用来指定JSP页面的字符编码和响应的MIME类型 C. isErrorPage属性用来设定当JSP程序运行出现异常时跳转到的错误处理页面 D. session属性设定当前页面是否使用session，默认为true 
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1118</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>当需要针对用户存储用户的访问信息或跟踪用户的访问路径时</td><td>
+                     当需要针对用户存储用户的访问信息或跟踪用户的访问路径时，通常是把用户的访问信息存储在哪个内置对象中____________。A. pageContext对象 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;C．request对象B. session对象 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．application对象
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1119</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>page指令中设置isELIgnored属性表示</td><td>
+                     page指令中设置isELIgnored属性表示___________。A. 决定是否实现Servler的单线程模式 &nbsp; &nbsp; &nbsp; &nbsp; C. 决定是否支持Expression Language &nbsp; B. 决定该页面是否是一个错误处理页面 &nbsp; &nbsp; &nbsp; &nbsp;D. 没有具体的含义。
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1120</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>关于response对象的sendRedirect方法，下面哪一项描述是错误的</td><td>
+                     关于response对象的sendRedirect方法，下面哪一项描述是错误的____________。A. sendRedirect方法将客户请求重定向到指定的页面；B. sendRedirect将导致request、response对象生命周期结束；C. sendRedirect重定向不局限于在网站内部跳转，可以重定向到任意页面。 D. sendRedirect方法重定向不会改变浏览器地址栏的地址信息
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_2016_simple_phase3_0006</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>下面有关内置对象的有效范围的说法正确的是</td><td>
+                     下面有关内置对象的有效范围的说法正确的是（）A. session对象的有效范围是当前页 B. pageContext的有效范围是容器上下文 C.application对象的有效范围是整个应用程序 D.request对象的有效范围是针对每个用户的 
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1116</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>下列关于page指令用法的描述不正确的是</td><td>
+                     下列关于page指令用法的描述不正确的是：__________。A. &lt;%@ page %&gt;作用于整个JSP页面。B. 可以在一个页面中使用多个&lt;%@ page %&gt;指令。C. 为增强程序的可读性，建议将&lt;%@ page %&gt;指令放在JSP文件的开头，但不是必须的。D. &lt;%@ page %&gt;指令中的所有属性都只能出现一次。
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1206</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>JSP内置对象session的类型为javax.servlet.http.HttpSession，下述语句会使该对象失效的是</td><td>
+                     JSP内置对象session的类型为javax.servlet.http.HttpSession，下述语句会使该对象失效的是___________。A. session.dispose(); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; C. &nbsp;session.clear();B. session.invalidate(); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D. &nbsp;session.removeAll();
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_014</td><td>
+                         困难
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>request对象的方法</td><td>
+                     request 对象的______方法可以获取页面请求中一个表单组件对应多个值时的用户的请求数据。A．String getParameter(String name) B．String[] getParameter(String name) C．String getParameterValuses(String name) D．String[] getParameterValues(String name)
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_013</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>JavaBean的访问范围</td><td>
+                     在JSP 中，使用&lt;jsp:useBean&gt;动作可以将JavaBean 嵌入JSP 页面，JavaBean的访问范围不能是_______。A． page &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．requestC． response &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．application 
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_012</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>重定向的方法</td><td>
+                     在JSP中，重定向到另一个页面，以下________语句是正确的。A． request.sendRedirect(&quot;http://www.cuit.edu.cn&quot;);B． request.sendRedirect(); C． response.sendRedirect(&quot;http://www.cuit.edu.cn&quot;);D． response.sendRedirect(); 
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_011</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>表达式元素的用法</td><td>
+                     在一个JSP 文件中，有表达式&lt;%=2+3 %&gt;，它将输出_________。A．2+3 &nbsp; &nbsp; &nbsp; &nbsp; B．5 &nbsp; &nbsp;C．23 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．不会输出，因为表达式是错误的
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_010</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>JSP动作元素</td><td>
+                     在JSP 中，________动作用于将请求转发给其他 JSP 页面。A． &nbsp;forward &nbsp; &nbsp; &nbsp; &nbsp;B． &nbsp;include C． &nbsp;useBean &nbsp; &nbsp; &nbsp; &nbsp;D． &nbsp;setProperty 
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_009</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>错误处理页面设置</td><td>
+                     要设置某个JSP 页面为错误处理页面，以下 page 指令正确的是___________。A．&lt;%@ page errorPage=&quot;true&quot;%&gt; &nbsp; &nbsp;B．&lt;%@ page isErrorPage=&quot;true&quot;%&gt; C．&lt;%@ pageextends=&quot;javax.servlet.jsp.JspErrorPage&quot;%&gt; D．&lt;%@ page info=&quot;error&quot;%&gt;
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_008</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>包含的用法</td><td>
+                     在inc.jsp中包含数行代码与一张图片，现在要创建一个home.jsp，每次浏览 home.jsp时都能够以最快的速度显示inc.jsp中的所有内容以及home.jsp自身要显示的内容，应该在home.jsp中使用的语句是_____________。A．&lt;%@include file = “inc.jsp”%&gt; &nbsp; &nbsp; B．&lt;%@include page=“inc.jsp”flush= “true”&gt; C． &lt;jsp:include file = “inc.jsp”flush= “false”&gt;D． &lt;jsp:forward page = “inc.jsp”/&gt; 
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_007 </td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>useBean的用法</td><td>
+                      在JSP 中要使用 user 包中的 User 类，则以写法正确的是______________。A． &lt;jsp:useBean id=”user”class=”user.User”scope=”page”/&gt; &nbsp;B． &lt;jsp:useBean class=”user.Use.class”/&gt; &nbsp;C． &lt;jsp:useBean name=”user”class=”user.User”/&gt; &nbsp;D． &lt;jsp:useBeam id=”user”class=”user”import=”user.*”/&gt;
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_006</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>useBean的范围设置</td><td>
+                     在test.jsp文件中有如下一行代码：&lt;jsp:useBean id=&quot;user&quot;scope=&quot;____&quot; &nbsp;type=&quot;com.UserBean&quot;/&gt;要使 user 对象在用户对其发出请求时存在，下划线中应填入_________。A．page &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．request C． session &nbsp; &nbsp; &nbsp;D． application
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_005 </td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>获取页面文本框输入</td><td>
+                      下列_________语句可以获取页面请求中的一个文本框的输入（文本框的名字为 title）。A．response.getParameter(&quot;title&quot;); &nbsp; B．request.getAttribute(&quot;title&quot;);C．requert.getParameter(&quot;title&quot;); &nbsp; &nbsp;D．requert.getParameters(&quot;title&quot;);
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_004 </td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>表达式元素的用法</td><td>
+                      &lt;%=&quot;2&quot;+5%&gt;将输出__________。A．2+5 &nbsp; &nbsp; &nbsp; &nbsp;B．7 &nbsp; &nbsp;C．25 &nbsp; &nbsp; &nbsp; &nbsp; D．不会输出，因为表达式是错误的
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_003 </td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>page指令引入</td><td>
+                     在jsp页面中导入java.util包，下列哪个标签时正确的____________。A．&lt;%@ import =&quot;java.util.* &quot; %&gt; B．&lt;%@ import =&quot;java.util.* &quot; @%&gt;C．&lt;%@ page import =&quot;java.util.*&quot; %&gt; D．&lt;%@ page java =&quot;java.util.* &quot; %&gt;
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_002  </td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>添加Cookie</td><td>
+                     在JSP页面中向客户端添加Cookie的方法是____________________。A．request.addCookie(); &nbsp; &nbsp; &nbsp;B．session.addCookie();C．response.addCookie(); &nbsp; &nbsp; D．application.addCookie();
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_001</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>获取Cookie</td><td>
+                      &nbsp;在JSP页面中获取客户端的Cookie的方法是____________________。A．request.getCookies(); &nbsp; &nbsp; &nbsp;B．session.getCookies();C．response.getCookies(); &nbsp; &nbsp; D．application.getCookies();
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_hyy_015</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>作用域范围</td><td>
+                      按作用域从大到小排列正确的是（）。A．application page request sessionB．session page request applicationC．page application session request D．application session request page
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_hyy_017</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>response对象的方法</td><td>
+                      可以利用JSP动态改变客户端的响应，使用的语法是（）。A．response.handlerHeader()B．response.writeHeader()C．response.outHeader()D．response.setHeader()
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_015</td><td>
+                         困难
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>会话跟踪的方法</td><td>
+                     WEB 应用中，常用的会话跟踪方法不包括______。A．URL 重写 &nbsp; &nbsp; &nbsp; &nbsp; B．CookieC．隐藏表单域 &nbsp; &nbsp; &nbsp; &nbsp;D．有状态 HTTP 协议
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_hyy_013</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>关于重定向</td><td>
+                      重定向可以使用（）方法。A．response.sendRedirect(“login.jsp”)B．request.sendRedirect(“login.jsp”)C．&lt;jsp :forward page= “login.jsp”/&gt;D．&lt;forward page= “login.jsp”/&gt;
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_hyy_011</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>内置对象应用</td><td>
+                      如果编写一个计数器程序，用来记载当前网站的访问量，最好将访问量数据保存在JSP中的（）对象。A．page &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．sessionC．request &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．application
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_hyy_003</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>关于session对象的用途</td><td>
+                     session对象经常被用来（）。A．在页面上输出数据 &nbsp; &nbsp; &nbsp;B．抛出运行时的异常C．在多个程序中保存信息 &nbsp;D．在多页面请求中保持状态和用户认证
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_hyy_004</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>关于JSP变量与方法</td><td>
+                      &nbsp;可以在以下哪个（）标记之间插入变量与方法声明？A．&lt;% 和%&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．&lt;%！和 %&gt;C．&lt;/ 和%&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．&lt;% 和 &nbsp;!&gt;
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_hyy_005</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>关于表达式元素</td><td>
+                      在“&lt;%=”和“%&gt;”标记之间放置（），可以直接输出其值。A．Java表达式 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．字符串C．数字 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．变量
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_hyy_006</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>关于内置对象</td><td>
+                      下面不属于JSP内置对象的是（）。A．response对象 &nbsp; &nbsp; &nbsp; &nbsp; B．out对象C．application对象 &nbsp; &nbsp; &nbsp;D．servlet对象
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_hyy_007</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>request对象</td><td>
+                      JSP页面中request.getParamter(String )得到的数据，其类型是（）。A．Integer &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．intC．String &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．Double
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_hyy_010</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>JSP动作元素setProperty</td><td>
+                      使用&lt;jsp:setProperty&gt;动作标记可以在JSP页面中设置Bean的属性，但必须保证Bean有对应的（）方法。A．SetXxx方法 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．setXxx方法C．getXxx方法 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．GetXxx方法
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_hyy_033</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>JavaBean的访问范围</td><td>
+                      在JSP中，使用&lt;jsp:useBean&gt;动作可以将javaBean嵌入JSP页面，对JavaBean的访问范围不能是（）。A．page &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．requestC．application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．response
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_hyy_030</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>获取客户端参数</td><td>
+                      从HTTP请求中，获得请求参数，应该调用（）。A．request对象的getAttribute()方法B．request对象的getParameter()方法C．session对象的getAttribute()方法D．session对象的getParameter()方法
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_hyy_025</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>内置对象的作用范围</td><td>
+                      下列（）作用范围的Bean，被Web服务目录下所有用户共享，任何客户对Bean属性的修改都会影响到其他用户。A．request &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．applicationC．page &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．session
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_hyy_026</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>JSP动作元素</td><td>
+                      下列（）项不属于JSP动作指令标记？A．&lt;jsp:param&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．&lt;jsp:plugin&gt;C．&lt;jsp:useBean&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．&lt;jsp:javaBean&gt;
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_hyy_027</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     内置对象
+                    </td><td>作用域范围</td><td>
+                      下列（）作用范围的bean，请求响应完成则该Bean即被释放，不同客户的Bean互不相同。A．request &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．pageC．application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．session
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_hyy_028</td><td>
+                         普通
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>session对象的使用</td><td>
+                      以下（）可用于获取session对象中属性userid的值。A．session. getAttribute (“userid”)B．session. setAttribute (“userid”)C．request. getParameter (“userid”)D．request. getAttribute (“userid”)
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_hyy_021 </td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>JSP标签</td><td>
+                     可以在以下哪个（）标记之间插入Java程序片？A．&lt;% 和%&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．&lt;% 和 &nbsp;/&gt;C．&lt;/ 和%&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．&lt;% 和 &nbsp;!&gt;
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_hyy_022</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>请求转发</td><td>
+                      在JSP中，（）动作用于将请求转发给其他JSP页面。A．forward &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．includeC．useBean &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．setProperty
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_hyy_023</td><td>
+                         简单
+                    </td><td>
+                         阶段三
+                    </td><td>
+                     JSP语法
+                    </td><td>page指令引入</td><td>
+                      在JSP中，page指令的（）属性用来引入需要的包或类。A．extends &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．importC．languge &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．contentType
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1207</td><td>
+                         普通
+                    </td><td>
+                         阶段四
+                    </td><td>
+                     JavaBean
+                    </td><td>在JSP页面中使用JavaBean时不会用到的JSP标准动作是</td><td>
+                     在JSP页面中使用JavaBean时不会用到的JSP标准动作是A. &lt;javabean&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;C．&lt;jsp:useBean&gt;B. &lt;jsp:setProperty&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．&lt;jsp:getProperty&gt;
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p4_sw_001</td><td>
+                         普通
+                    </td><td>
+                         阶段四
+                    </td><td>
+                     JavaBean
+                    </td><td>在JSP页面中使用JavaBean时不会用到的动作是</td><td>
+                     在JSP页面中使用JavaBean时不会用到的动作是。A．&lt;javabean&gt; &nbsp; &nbsp; &nbsp; &nbsp; B．&lt;jsp:useBean&gt;C．&lt;jsp:setProperty&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．&lt;jsp:getProperty&gt;
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1203</td><td>
+                         普通
+                    </td><td>
+                         阶段四
+                    </td><td>
+                     JavaBean
+                    </td><td>下面哪一项不是jsp:useBean动作的属性?</td><td>
+                     下面哪一项不是JSP &lt;jsp:useBean&gt;动作的属性？____________。A. path &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; C. &nbsp;scopeB. id &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D. &nbsp;class
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1209</td><td>
+                         简单
+                    </td><td>
+                         阶段四
+                    </td><td>
+                     JavaBean
+                    </td><td>在JSP页面中使用JavaBean时不会用到的动作是</td><td>
+                     在JSP页面中使用JavaBean时不会用到的动作是 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 。A．&lt;javabean&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．&lt;jsp:useBean&gt;C．&lt;jsp:setProperty&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．&lt;jsp:getProperty&gt;
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1239</td><td>
+                         简单
+                    </td><td>
+                         阶段四
+                    </td><td>
+                     JavaBean
+                    </td><td>在页面中使用&lt;jsp:useBean&gt;动作时不会出现的属性是</td><td>
+                     在页面中使用&lt;jsp:useBean&gt;动作时不会出现的属性是：A．id; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．name；C．class; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．scope；
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1202</td><td>
+                         普通
+                    </td><td>
+                         阶段四
+                    </td><td>
+                     JavaBean
+                    </td><td>下面说法中错误的是</td><td>
+                     下面关于&lt;jsp:setProperty&gt;说法中错误的是____________。A. &lt;jsp:setProperty&gt;用来设置已经实例化的JavaBean对象的属性 B. &lt;jsp:setProperty&gt;的name属性表示要设置属性的JavaBean对象变量名 C. &lt;jsp:setProperty&gt;的value属性表示要设置的属性的值，且该属性必须存在 D. 以上说法全部错误
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1201</td><td>
+                         普通
+                    </td><td>
+                         阶段四
+                    </td><td>
+                     JavaBean
+                    </td><td>JSP中可重复使用的组件是:</td><td>
+                     JSP中可重复使用的组件是_______________。A. COM/DCOM &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;C. &nbsp;ServletB. JavaBean &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D. &nbsp;没有可重用的组件
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1222</td><td>
+                         普通
+                    </td><td>
+                         阶段四
+                    </td><td>
+                     JavaBean
+                    </td><td>下面哪个不是使用JavaBean的标准动作</td><td>
+                     下面哪个不是使用JavaBean的标准动作。 &nbsp; &nbsp;A．&lt;jsp:javabean&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．&lt;jsp:useBean&gt; &nbsp; &nbsp;C．&lt;jsp:setProperty&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．&lt;jsp:getProperty&gt;
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1219</td><td>
+                         普通
+                    </td><td>
+                         阶段四
+                    </td><td>
+                     JavaBean
+                    </td><td>下面的哪一项不属于定义JavaBean必须要遵循的规范</td><td>
+                     下面的哪一项不属于定义JavaBean必须要遵循的规范: ____________。A．JavaBean是一个公共类； B．类中必须存在一个无参数的构造方法；C．对于JavaBean的属性变量，必须定义为私有的；D．对于JavaBean的属性变量，应提供对应的setter与getter方法
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>hy_1310</td><td>
+                         普通
+                    </td><td>
+                         阶段五
+                    </td><td>
+                     JDBC
+                    </td><td>下述选项中不属于JDBC基本功能的是</td><td>
+                     下述选项中不属于JDBC基本功能的是 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 。A．与数据库建立连接 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．提交SQL语句C．备份数据库 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．处理查询结果
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1303</td><td>
+                         困难
+                    </td><td>
+                         阶段五
+                    </td><td>
+                     JDBC
+                    </td><td>在JDBC API中，用于执行预编译SQL语句的接口是</td><td>
+                     在JDBC API中，用于执行预编译SQL语句的接口是。A．Statement &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．CallableStatementC．PreparedStatement &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．以上都不是
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1302</td><td>
+                         困难
+                    </td><td>
+                         阶段五
+                    </td><td>
+                     JDBC
+                    </td><td>关于JDBC中的接口和类，下面哪种说法是错误的</td><td>
+                     关于JDBC中的接口和类，下面哪种说法是错误的____________A．通常使用java.lang.Class类的静态方法forName(String className) 来实例化Driver接口的实例；B．Driver接口中定义的getConnection(String url，String name，String pwd)方法用于创建与数据库的连接；C．PreparedStatement接口用于执行预编译的动态SQL语句； &nbsp; &nbsp; &nbsp; D．ResultSet接口表示查询的结果集，其next()方法用于将指针移到下一行。
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1306</td><td>
+                         简单
+                    </td><td>
+                         阶段五
+                    </td><td>
+                     JDBC
+                    </td><td>下述选项中不属于JDBC基本功能的是</td><td>
+                     下述选项中不属于JDBC基本功能的是。A．处理查询结果 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．提交SQL语句C．与数据库建立连接 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．数据库维护管理
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p3_sw_004</td><td>
+                         简单
+                    </td><td>
+                         阶段五
+                    </td><td>
+                     JDBC
+                    </td><td>于JDBC基本功能</td><td>
+                     下述选项中不属于JDBC基本功能的是。A．与数据库建立连接 &nbsp; B．提交SQL语句C．处理查询结果 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．数据库维护管理
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1302</td><td>
+                         困难
+                    </td><td>
+                         阶段五
+                    </td><td>
+                     JDBC
+                    </td><td>下述关于JDBC的说法中错误的是:</td><td>
+                     下述关于JDBC的说法中错误的是:A. Class.forName (“DriverName”)可用来加载JDBC驱动程序，但它不能判断驱动程序在环境中是否存在B. JDBC用统一的接口屏蔽了不同数据库产品之间的差异，降低了开发难度；C. ResultSet的游标类型默认为：TYPE_FORWARD_ONLYD. CallableStatement对象用于向数据库发送存储过程
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1115</td><td>
+                         困难
+                    </td><td>
+                         阶段五
+                    </td><td>
+                     JDBC
+                    </td><td>JDBC API中的Statement接口主要用于</td><td>
+                     JDBC API中的Statement接口主要用于___________。A. 与数据库建立连接 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; C．提交执行SQL语句B. 处理查询结果 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．数据库维护管理
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p5_hyy_029</td><td>
+                         普通
+                    </td><td>
+                         阶段五
+                    </td><td>
+                     JDBC
+                    </td><td>JDBC的使用</td><td>
+                      为了实现在Java的程序中调用带参数的SQL语句，应该采用（）来完成。A．Connection接口的对象 &nbsp; &nbsp; &nbsp; &nbsp; B．PreparedStatement接口的对象C．ResultSet接口的对象 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．Statement接口的对象
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p5_hyy_016</td><td>
+                         普通
+                    </td><td>
+                         阶段五
+                    </td><td>
+                     JDBC
+                    </td><td>JDBC接口</td><td>
+                      在JDBC连接数据库编程应用开发中，利用（）可以实现包装数据库中的结果集。A．Connection类 &nbsp; &nbsp; &nbsp; &nbsp;B．PreparedStatement类C．ResultSet类 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．Statement类
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_2016_jdbc_s001</td><td>
+                         简单
+                    </td><td>
+                         阶段五
+                    </td><td>
+                     JDBC
+                    </td><td>JDBC连接对象</td><td>
+                     JDBC中，用于表示数据库连接的对象是。A)Statement &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B)ConnectionC)DriverManager &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D)PreparedStatement
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_2016_jdbc_s002</td><td>
+                         普通
+                    </td><td>
+                         阶段五
+                    </td><td>
+                     JDBC
+                    </td><td>调用存储过程的对象</td><td>
+                     JDBC中用于调用存储过程的对象是。A)ResultSet &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B)DriverManagerC)CallableStatemet &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D)PreparedStatement
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_sw_s003</td><td>
+                         简单
+                    </td><td>
+                         阶段五
+                    </td><td>
+                     JDBC
+                    </td><td>JDBC驱动类型</td><td>
+                     JDBC共有几种驱动类型A）1种 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B）2种C）3种 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D）4种
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_sw_s004</td><td>
+                         普通
+                    </td><td>
+                         阶段五
+                    </td><td>
+                     JDBC
+                    </td><td>ResultSet光标定位</td><td>
+                     以下定义在ResultSet中的方法哪一个不是用于光标定位的方法： A. next() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B. beforeFirst()  C. afterLast() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D. isBeforeFirst()
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_s2_s005</td><td>
+                         简单
+                    </td><td>
+                         阶段五
+                    </td><td>
+                     JDBC
+                    </td><td>executeQuery方法的返回类型</td><td>
+                     接口Statement中定义的executeQuery方法的返回类型是： A &nbsp;ResultSet &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B int C &nbsp;boolean &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D void
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_sw_006</td><td>
+                         简单
+                    </td><td>
+                         阶段五
+                    </td><td>
+                     JDBC
+                    </td><td>下面哪一个不是JDBC API中定义的接口和类</td><td>
+                     下面哪一个不是JDBC API中定义的接口和类？A. Statement &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B. ClassC. Connection &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D. ResultSet
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_sw_s007</td><td>
+                         普通
+                    </td><td>
+                         阶段五
+                    </td><td>
+                     JDBC
+                    </td><td>使用Connection 的哪个方法可以建立一个PreparedStatement对象</td><td>
+                     使用Connection 的哪个方法可以建立一个PreparedStatement对象？A. createPrepareStatement() &nbsp; &nbsp; &nbsp; &nbsp; B. prepareStatement()C. createPreparedStatement() &nbsp; &nbsp; &nbsp; &nbsp;D. preparedStatement()
+                    </td><td>D</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_sw_s008</td><td>
+                         普通
+                    </td><td>
+                         阶段五
+                    </td><td>
+                     JDBC
+                    </td><td>下面的描述正确的是</td><td>
+                     下面的描述正确的是什么？A. PreparedStatement继承自StatementB. Statement继承自PreparedStatementC. ResultSet继承自StatementD. CallableStatement继承自PreparedStatement
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_sw_s009</td><td>
+                         普通
+                    </td><td>
+                         阶段五
+                    </td><td>
+                     JDBC
+                    </td><td>下面的描述错误的是什么</td><td>
+                     下面的描述错误的是？A. Statement的executeQuery()方法会返回一个结果集B. Statement的executeUpdate()方法会返回是否更新成功的boolean值C. 使用ResultSet中的getString()可以获得一个对应于数据库中char类型的值D. ResultSet中的next()方法会使结果集中的下一行成为当前行
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p6_sw_002</td><td>
+                         普通
+                    </td><td>
+                         阶段六
+                    </td><td>
+                     JSTL和EL
+                    </td><td>EL的用法</td><td>
+                     JSP 页面中的EL 表达式：${user.loginName}执行效果等同于______。A．&lt;% = user.getLoginName()%&gt; &nbsp; &nbsp;B．&lt;%user.getLoginName();%&gt; C．&lt;% = user.loginName%&gt; &nbsp; &nbsp; &nbsp;D．&lt;% user.loginName;%&gt;
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>cy_1301</td><td>
+                         简单
+                    </td><td>
+                         阶段六
+                    </td><td>
+                     JSTL和EL
+                    </td><td>关于JSTL与EL，下面表述中错误的是：</td><td>
+                      关于JSTL与EL，下面表述中错误的是：A. 要使用JSTL必须在JSP页面中加入&lt;%@ taglib%&gt;指令，指定标签库的URI与前缀B. JSTL中核心标签库的URI=http://java.sun.com/jsp/jstl/coreC. EL表达式中不能使用算术运算符D. EL的基本语法为${表达式}
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1307</td><td>
+                         普通
+                    </td><td>
+                         阶段六
+                    </td><td>
+                     JSTL和EL
+                    </td><td>在JSP页面中使用标签库时，必须设置taglib指令，taglib指令的两个属性分别是</td><td>
+                     在JSP页面中使用标签库时，必须设置taglib指令，taglib指令的两个属性分别是_________。A．prefix和url &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B．prefix和uriC．tag和lib &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D．name和property
+                    </td><td>B</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2016_p6_sw_003</td><td>
+                         普通
+                    </td><td>
+                         阶段六
+                    </td><td>
+                     JSTL和EL
+                    </td><td>在JSP页面中的表达式语言（EL）的基本语法格式是</td><td>
+                     在JSP页面中的表达式语言（EL）的基本语法格式是_______。A．${ expression} &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B．&lt;%${ expression }%&gt;C．{ expression} &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; D．&lt;%{ expression }%&gt;
+                    </td><td>A</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>sw_1305</td><td>
+                         困难
+                    </td><td>
+                         阶段六
+                    </td><td>
+                     JSTL和EL
+                    </td><td>如果要使用JSTL中的核心标签库，该如何设置taglib指令</td><td>
+                     如果要使用JSTL中的核心标签库，该如何设置taglib指令____________。A．&lt;%@taglib prefix=“c” url=“http://java.sun.com/jsp/jstl/core”%&gt;B．&lt;%@taglib prefix=“core” url=“http://java.sun.com/jsp/jstl/core”%&gt;C．&lt;%@taglib prefix=“c” uri=“http://java.sun.com/jsp/jstl/core”%&gt; D．&lt;%@taglib prefix=“core” uri=“http://java.sun.com/jsp/jstl/core”%&gt;
+                    </td><td>C</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr>
+	</table>
+</div></form>
